@@ -3,6 +3,6 @@ public class Assignment1 {
 
         System.out.println("CSC142-Intro to Java");
         System.out.println("One thing I learned from module 1 is I know that ");
-        System.out.print("we can still use Visual Studio Code which is simpler than Eclipse for coding");
+        System.out.println("we can still use Visual Studio Code which is simpler than Eclipse for coding");
     }
 }
